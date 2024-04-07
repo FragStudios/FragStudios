@@ -37,7 +37,7 @@ Languages
 
 <h2 align="center">current projects</h2>
 
-- [FRAG British RP]([https://discord.io/therevival](https://discord.gg/ZQUrfnhr2U)) **(FiveM Inspired Server)**
+- [FRAG British RP]https://discord.io/therevival](https://discord.gg/ZQUrfnhr2U **(FiveM Server)**
 
 <h1>
 </h1>
