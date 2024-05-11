@@ -22,7 +22,8 @@ Languages
 
 <img width="40" src="https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png" /> CSS
 
-<img width="40" src="[https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png](https://store-images.s-microsoft.com/image/apps.9292.f7586ead-cd6c-4334-ab74-e72395afdcb9.4de59ba4-5981-4862-b898-709027028523.b9793569-c375-4a5b-81d9-e5f53d8c96fc)" /> React
+<img width="40" src="![image](https://github.com/FragStudios/FragStudios/assets/116266395/81a0a08b-b459-4009-a26a-ae19ea9c9140)" /> React
+
 
 
 
