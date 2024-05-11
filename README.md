@@ -45,3 +45,7 @@ Languages
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/425377411161391104?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Pay%20Me%20To%20Write%20You%20Code)](https://discord.com/users/425377411161391104)
 
 <img src="https://komarev.com/ghpvc/?username=Jay-Founder-SCRP&color=blue" alt="fax" width="" height="">
+
+# Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fragstudios&show_icons=true&theme=merko)
+
