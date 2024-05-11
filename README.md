@@ -14,16 +14,11 @@
 Languages
 </h1>
   
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
-
-<img width="40" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/javascript-2752148-2284965.png?f=webp" /> JS
-
-<img width="40" src="https://cdn-icons-png.flaticon.com/256/174/174854.png" /> HTML
-
-<img width="40" src="https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png" /> CSS
-
-<img width="40" src="https://github.com/FragStudios/FragStudios/assets/116266395/81a0a08b-b459-4009-a26a-ae19ea9c9140" /> React
-
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> <b>Lua</b><br>
+<img width="40" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/javascript-2752148-2284965.png?f=webp" /> <b>JS</b><br>
+<img width="40" src="https://cdn-icons-png.flaticon.com/256/174/174854.png" /> <b>HTML</b><br>
+<img width="40" src="https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png" /> <b>CSS</b><br>
+<img width="40" src="https://github.com/FragStudios/FragStudios/assets/116266395/81a0a08b-b459-4009-a26a-ae19ea9c9140" /> <b>React</b><br>
 
 
 
