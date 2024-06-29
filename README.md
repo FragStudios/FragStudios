@@ -25,7 +25,10 @@ Languages
 <h2>
 Learning
 </h2>
+
 <img width="40" src="https://github.com/FragStudios/FragStudios/assets/116266395/81a0a08b-b459-4009-a26a-ae19ea9c9140" /> <b>React</b><br>
+
+<img width="40" src="[https://github.com/FragStudios/FragStudios/assets/116266395/81a0a08b-b459-4009-a26a-ae19ea9c9140](https://github.com/FragStudios/FragStudios/assets/116266395/bc384a4e-ae90-4117-be8f-2fa17b319b2c)" /> <b>Next.js</b><br>
 
 <p align="center">
   
