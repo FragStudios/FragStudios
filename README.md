@@ -22,6 +22,9 @@ Languages
 
 <img width="40" src="https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png" /> <b>CSS</b><br>
 
+<h2>
+Learning
+</h2>
 <img width="40" src="https://github.com/FragStudios/FragStudios/assets/116266395/81a0a08b-b459-4009-a26a-ae19ea9c9140" /> <b>React</b><br>
 
 <p align="center">
