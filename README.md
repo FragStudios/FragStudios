@@ -30,7 +30,7 @@ Learning
 
 <img width="40" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" /> <b>Next.js</b><br>
 
-<img width="40" src="https://audacia.co.uk/img/technologies/c-.svg" /> <b>C#</b><br>
+<img width="40" src="https://piyushvscode.gallerycdn.vsassets.io/extensions/piyushvscode/nodejs-snippets/0.0.2/1575178663150/Microsoft.VisualStudio.Services.Icons.Default" /> <b>C#</b><br>
 
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" /> <b>C++</b><br>
 
