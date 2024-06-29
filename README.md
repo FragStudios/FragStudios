@@ -28,13 +28,8 @@
 
 </center>
 
-<p align="center">
-  
-</p>
-
-<p align="center">
-
-</p>
+<br>
+<br>
 
 <h2 align="center">current projects</h2>
 
