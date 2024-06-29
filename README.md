@@ -14,7 +14,7 @@
 Languages
 </h1>
   
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> <b>Lua</b><br>
+<img align-content="center" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> <b>Lua</b><br>
 
 <img width="40" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/javascript-2752148-2284965.png?f=webp" /> <b>JS</b><br>
 
