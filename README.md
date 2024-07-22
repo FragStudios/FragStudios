@@ -36,8 +36,8 @@
 
 <h2 align="center">current projects</h2>
 
-- [FRAG Roleplay](https://discord.gg/ZQUrfnhr2U) **(FiveM Server)**
-- [FRAG Arena](https://discord.gg/uDVGvzcjqF) **(FiveM Server)**
+- [HAVOC](https://discord.gg/ZQUrfnhr2U) **(FiveM Server)**
+- [HAVOC Arena](https://discord.gg/uDVGvzcjqF) **(FiveM Server)**
 
 <h1>
 </h1>
